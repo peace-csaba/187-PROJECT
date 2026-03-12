@@ -1,5 +1,3 @@
 Welcome to 187 PROJECT
 
-• New camo added
-• Bot limit increased
 • Patch installer improved
