@@ -1,3 +1,7 @@
-Welcome to 187 PROJECT
+187 PROJECT
 
+Welcome to the tool.
+
+• New camo system added
+• Bug fixes & changes
 • Patch installer improved
